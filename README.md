@@ -8,6 +8,5 @@
 - 👯 I’m looking to collaborate on creative peoples
 - 🤔 I’m looking for help with innovative solutions
 - 💬 Ask me about software engeneering
-- 📫 How to reach me: https://github.com/atzsamuel
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
